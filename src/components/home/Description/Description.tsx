@@ -1,7 +1,7 @@
 export const Description = () => {
-  return(
+  return (
     <section>
       <h1>Descripción</h1>
     </section>
-  )
-}
+  );
+};
